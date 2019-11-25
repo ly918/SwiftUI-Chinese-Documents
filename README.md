@@ -9,7 +9,9 @@
 
 ### 1、苹果官方示例工程
 
-`git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git` 
+```shell
+git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
+```
 
 ### 2、SwiftUI官方文档中文版[原文](https://developer.apple.com/documentation/swiftui)
 
