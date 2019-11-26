@@ -14,7 +14,11 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 
 ### 2、SwiftUI官方文档中文版
 
-> 主要包括：官方示例教程的翻译、SwiftUI官方文档接口翻译和释义。
+> 文档主要分两大部分：
+
+> 一、官方示例教程翻译
+
+> 二、SwiftUI源码解析
 
 [👉中文版](https://github.com/ly918/SwiftUI-Chinese-Documents/wiki)
 
