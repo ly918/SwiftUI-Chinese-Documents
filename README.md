@@ -27,3 +27,7 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 ### 4、优秀案例
 
 **_欢迎Issue_**
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ly918/SwiftUI-Chinese-Documents/blob/master/LICENSE) file for details.
