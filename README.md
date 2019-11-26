@@ -26,4 +26,4 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 
 ### 4、优秀案例
 
-**_欢迎Issues_**
+**_欢迎Issue_**
