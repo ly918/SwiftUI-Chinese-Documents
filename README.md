@@ -18,13 +18,10 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 
 [👉SwiftUI官方文档中文版Wiki](https://github.com/ly918/SwiftUI-Chinese-Documents/wiki)
 
-### 3、实战探索
+### 3、实践探索
 
-努探索错中...
+努力探索中...
 
 ### 4、优秀案例
-
-努力寻找中...
-
 
 **_欢迎Issues_**
