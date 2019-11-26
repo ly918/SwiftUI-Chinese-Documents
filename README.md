@@ -12,11 +12,13 @@
 git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 ```
 
-### 2、SwiftUI官方文档中文版[原文](https://developer.apple.com/documentation/swiftui)
+### 2、SwiftUI官方文档中文版
 
 > 主要包括：官方示例教程的翻译、SwiftUI官方文档接口翻译和释义。
 
-[👉SwiftUI官方文档中文版Wiki](https://github.com/ly918/SwiftUI-Chinese-Documents/wiki)
+[👉中文版](https://github.com/ly918/SwiftUI-Chinese-Documents/wiki)
+
+[👉官方版](https://developer.apple.com/documentation/swiftui)
 
 ### 3、实践探索
 
