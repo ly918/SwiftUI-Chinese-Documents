@@ -23,19 +23,14 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 ### 3、实践探索
 
 * [系统图标 SystemSymbols](https://github.com/ly918/SwiftUI-Chinese-Documents/tree/master/Demos/TabNavigationDemo)
-
 * [标签导航结构 Tab-Navigation](https://github.com/ly918/SwiftUI-Chinese-Documents/tree/master/Demos/TabNavigationDemo)
 
 ### 4、优秀案例
 
-* [历时五天用 SwiftUI 做了一款 APP，阿里工程师如何做的？](https://yq.aliyun.com/articles/717301?spm=a2c4e.11153940.0.0.1cac381drOBnhE)
-
+* [历时五天用SwiftUI做了一款APP，阿里工程师如何做的？](https://yq.aliyun.com/articles/717301?spm=a2c4e.11153940.0.0.1cac381drOBnhE)
 * [使用SwiftUI编写真正的app](https://swiftwithmajid.com/2019/06/05/swiftui-making-real-world-app/)-
-
-* [【⼲货】如何在 3 分钟内使⽤ SwiftUI 开发⼀个新闻资讯
-app](https://my.oschina.net/u/3999387/blog/3122099/print)
-
-* [SwiftUI 实战：从 0 到 1 研发一个 App](https://www.cnblogs.com/xiaoniuzai/p/11417199.html)
+* [如何在3分钟内使⽤SwiftUI开发⼀个新闻资讯app](https://my.oschina.net/u/3999387/blog/3122099/print)
+* [SwiftUI实战：从0到1研发一个App](https://www.cnblogs.com/xiaoniuzai/p/11417199.html)
 
 
 ## License
