@@ -28,7 +28,14 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 
 ### 4、优秀案例
 
-**_欢迎Issue_**
+[历时五天用 SwiftUI 做了一款 APP，阿里工程师如何做的？](https://yq.aliyun.com/articles/717301?spm=a2c4e.11153940.0.0.1cac381drOBnhE)
+
+[使用SwiftUI编写真正的app](https://swiftwithmajid.com/2019/06/05/swiftui-making-real-world-app/)
+
+[【⼲货】如何在 3 分钟内使⽤ SwiftUI 开发⼀个新闻资讯
+app](https://my.oschina.net/u/3999387/blog/3122099/print)
+
+[SwiftUI 实战：从 0 到 1 研发一个 App](https://www.cnblogs.com/xiaoniuzai/p/11417199.html)
 
 
 ## License
