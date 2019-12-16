@@ -22,7 +22,9 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 
 ### 3、实践探索
 
-[Tab-Navigation Demo](https://github.com/ly918/SwiftUI-Chinese-Documents/Demos)
+[系统图标 SystemSymbols](https://github.com/ly918/SwiftUI-Chinese-Documents/tree/master/Demos/TabNavigationDemo)
+
+[标签导航结构 TabNavigationDemo](https://github.com/ly918/SwiftUI-Chinese-Documents/tree/master/Demos/TabNavigationDemo)
 
 ### 4、优秀案例
 
