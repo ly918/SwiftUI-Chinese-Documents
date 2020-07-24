@@ -20,6 +20,7 @@
 		E365DFCD23AA3F0300CB3B26 /* LayeringViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E365DFCC23AA3F0300CB3B26 /* LayeringViews.swift */; };
 		E365DFCF23AA430B00CB3B26 /* BorderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E365DFCE23AA430B00CB3B26 /* BorderView.swift */; };
 		E365DFD123AA44AB00CB3B26 /* MaskingAndClippingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E365DFD023AA44AB00CB3B26 /* MaskingAndClippingViews.swift */; };
+		E3D7C97323BF197D007EDE6C /* ScalingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D7C97223BF197D007EDE6C /* ScalingViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		E365DFCC23AA3F0300CB3B26 /* LayeringViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeringViews.swift; sourceTree = "<group>"; };
 		E365DFCE23AA430B00CB3B26 /* BorderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderView.swift; sourceTree = "<group>"; };
 		E365DFD023AA44AB00CB3B26 /* MaskingAndClippingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskingAndClippingViews.swift; sourceTree = "<group>"; };
+		E3D7C97223BF197D007EDE6C /* ScalingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScalingViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				E365DFCC23AA3F0300CB3B26 /* LayeringViews.swift */,
 				E365DFCE23AA430B00CB3B26 /* BorderView.swift */,
 				E365DFD023AA44AB00CB3B26 /* MaskingAndClippingViews.swift */,
+				E3D7C97223BF197D007EDE6C /* ScalingViews.swift */,
 				E365DFB623AA1C6E00CB3B26 /* Assets.xcassets */,
 				E365DFBB23AA1C6E00CB3B26 /* LaunchScreen.storyboard */,
 				E365DFBE23AA1C6E00CB3B26 /* Info.plist */,
@@ -169,6 +172,7 @@
 			files = (
 				E365DFB123AA1C6D00CB3B26 /* AppDelegate.swift in Sources */,
 				E365DFB323AA1C6D00CB3B26 /* SceneDelegate.swift in Sources */,
+				E3D7C97323BF197D007EDE6C /* ScalingViews.swift in Sources */,
 				E365DFB523AA1C6D00CB3B26 /* ContentView.swift in Sources */,
 				E365DFC523AA238900CB3B26 /* SizingInViews.swift in Sources */,
 				E365DFCB23AA34D200CB3B26 /* AdjustingPaddingView.swift in Sources */,
