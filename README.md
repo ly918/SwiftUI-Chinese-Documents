@@ -31,6 +31,7 @@ git clone https://github.com/ly918/SwiftUI-Chinese-Documents.git
 * [使用SwiftUI编写真正的app](https://swiftwithmajid.com/2019/06/05/swiftui-making-real-world-app/)
 * [如何在3分钟内使⽤SwiftUI开发⼀个新闻资讯app](https://my.oschina.net/u/3999387/blog/3122099/print)
 * [SwiftUI实战：从0到1研发一个App](https://www.cnblogs.com/xiaoniuzai/p/11417199.html)
+* [SwiftUI仿iOS系统闹钟、定时器](https://github.com/ly918/SwiftUI-iOS-Clock)
 
 
 ## License
